@@ -1,0 +1,11 @@
+append()
+clear()
+copy()-- a new list
+count()
+extend()
+index()
+insert()
+pop()
+remove()
+reverse()
+sort()
